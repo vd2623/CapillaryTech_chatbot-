@@ -48,4 +48,4 @@ This ensured response accuracy while maintaining performance.
 
 In production, the full documentation could be handled in batches or using a hosted vector store.
 
-
+google collab link : https://colab.research.google.com/drive/1LTGfZZGEziNnRV0Mqnlx4V0X7Qyc-ykp?usp=sharing
