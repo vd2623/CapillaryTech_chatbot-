@@ -37,7 +37,7 @@ This chatbot can answer questions related to CapillaryTech's developer documenta
 4. Run the chatbot cells and start querying.
 
 Demo Video
-Watch the quick walkthrough: [Link to your 1-minute demo]
+Watch the quick walkthrough: (https://drive.google.com/file/d/1UZgELurgyIu4a8iPEZ1hFHv5RZXUTpTw/view?usp=sharing)
 
 ⭕️ Note on Documentation Size :
 
