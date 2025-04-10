@@ -29,11 +29,11 @@ This chatbot can answer questions related to CapillaryTech's developer documenta
 
 ## Setup (Google Colab)
 
-1. Clone the repository or open the Colab notebook directly.
+1. open the Colab notebook directly.
 2. Install dependencies:
    ```bash
    pip install langchain sentence-transformers faiss-cpu
-3. Add your scraped documentation or load the default filtered sample.
+3. Add your scraped documentation.
 4. Run the chatbot cells and start querying.
 
 Demo Video
